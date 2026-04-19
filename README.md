@@ -64,7 +64,7 @@ Obsidian 默认禁用第三方插件。请按以下步骤开启：
 3. 重启 Obsidian
 4. 回到 **设置 → 第三方插件 → 社区插件市场 → 浏览**
 
-> 26a0Fe0f 如果找不到"社区插件市场"选项，说明安全模式尚未关闭，请重复步骤 1-2。
+> ⚠️ 如果找不到"社区插件市场"选项，说明安全模式尚未关闭，请重复步骤 1-2。
 
 ---
 
@@ -154,6 +154,7 @@ Obsidian 默认禁用第三方插件。请按以下步骤开启：
 ## 🔗 相关链接
 
 - **知识母舰**：https://github.com/qiusuo-kaoyan/notes
+- **星图档案馆**：https://github.com/qiusuo-kaoyan/starlog-archive
 - **贡献指南**：https://github.com/qiusuo-kaoyan/notes/blob/main/CONTRIBUTING.md
 - **人机协同说明**：https://github.com/qiusuo-kaoyan/notes/blob/main/WORKFLOW.md
 - **舰长名录 & Release**：https://github.com/qiusuo-kaoyan/notes/releases
